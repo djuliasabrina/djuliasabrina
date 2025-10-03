@@ -1,16 +1,57 @@
-## Hi there 👋
+## Olá, eu sou a Djúlia Sabrina! 👋
 
-<!--
-**djuliasabrina/djuliasabrina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desenvolvedora em Formação | Estudante de Sistemas
 
-Here are some ideas to get you started:
+Sou apaixonada por tecnologia e estou imersa no mundo da programação através do curso Técnico em **Desenvolvimento de Sistemas** (2/4) no **SENAI**. Meu foco é aprender a construir soluções robustas e funcionais, transformando ideias em código.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Localizada em Timbó - SC.
+
+---
+
+### 🚀 Minhas Habilidades (Tech Stack)
+
+Estou ativamente aprendendo e aplicando as seguintes tecnologias:
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" alt="HTML5" /><br />
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" alt="CSS3" /><br />
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=js" width="45" alt="JavaScript" /><br />
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=java" width="45" alt="Java" /><br />
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="45" alt="Git" /><br />
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" /><br />
+      <sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌟 Objetivo e Contribuições
+
+-   **🌱 Foco Principal:** Desenvolver minhas habilidades em **programação orientada a objetos (Java)** e construir projetos de **desenvolvimento web** responsivos.
+-   **🤝 Buscando:** Contribuir com projetos reais para aplicar o conhecimento de **Git/GitHub** e começar a construir meu portfólio.
+
+---
+
+### 📫 Conecte-se Comigo!
+
+Estou sempre aberta para novas conexões e oportunidades de aprendizado!
+
+📧 **Email:** djuliapreti2007@gmail.com
