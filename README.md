@@ -1,14 +1,13 @@
-## Olá, eu sou a Djúlia Sabrina! 👋
+## Olá, eu sou a Djúlia Sabrina! 
 
-### 💻 Desenvolvedora em Formação | Estudante de Sistemas
+### Desenvolvedora em Formação | Estudante de Sistemas
 
 Sou apaixonada por tecnologia e estou imersa no mundo da programação através do curso Técnico em **Desenvolvimento de Sistemas** (2/4) no **SENAI**. Meu foco é aprender a construir soluções robustas e funcionais, transformando ideias em código.
 
-📍 Localizada em Timbó - SC.
+Localizada em Timbó - SC.
 
----
 
-### 🚀 Minhas Habilidades (Tech Stack)
+### Minhas Habilidades (Tech Stack)
 
 Estou ativamente aprendendo e aplicando as seguintes tecnologias:
 
@@ -41,17 +40,8 @@ Estou ativamente aprendendo e aplicando as seguintes tecnologias:
   </tr>
 </table>
 
----
-
-### 🌟 Objetivo e Contribuições
-
--   **🌱 Foco Principal:** Desenvolver minhas habilidades em **programação orientada a objetos (Java)** e construir projetos de **desenvolvimento web** responsivos.
--   **🤝 Buscando:** Contribuir com projetos reais para aplicar o conhecimento de **Git/GitHub** e começar a construir meu portfólio.
-
----
-
-### 📫 Conecte-se Comigo!
+### Conecte-se Comigo!
 
 Estou sempre aberta para novas conexões e oportunidades de aprendizado!
 
-📧 **Email:** djuliapreti2007@gmail.com
+**Email:** djuliapreti2007@gmail.com
